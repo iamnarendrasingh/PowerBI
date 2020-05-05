@@ -1,0 +1,7 @@
+{ 
+    "name": "TumbleRoadPurpleGreenTheme", 
+    "dataColors":["#40004b","#762a83","#9970ab","#c2a5cf","#a6dba0","#5aae61","#1b7837","#00441b","#bbbbbb","#999999","#666666","#333333"],
+    "background":"#FFFFFF",
+    "foreground": "#40004b",
+    "tableAccent": "#9970ab"
+}
